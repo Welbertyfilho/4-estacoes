@@ -8,6 +8,7 @@
         <agent img="Skeleton.png" x="80" y="1" width="80" height="30"/>
         <agent img="SnowMan.png" x="200" y="15" width="80" height="150"/>
         <agent text="algo de errado, não está certo..." color="blue" x="15" y="400"/>
+        <agent img="Sign_2.png" x="300" y="1" width="50" height="100" on-touch="_NEXT_PAGE"/>
  
 
   
