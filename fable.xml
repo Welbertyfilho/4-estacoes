@@ -10,8 +10,6 @@
         <agent text="algo de errado, não está certo..." color="blue" x="15" y="400"/>
         <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
  
-
-  
     </page>
     
     <page background="noite_dark.png">
@@ -22,6 +20,5 @@
         <agent text="nem aqui, nem em nenhum lugar." color="darkred" x="280" y="280"/>
         <agent img="Sign.png" x="1" y="1" width="150" height="150" on-touch="_PREV_PAGE"/>
         
-    </page>
-    
+    </page> 
 </fable>
