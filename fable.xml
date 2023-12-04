@@ -14,9 +14,8 @@
     
     <page background="bg_neve.png">
 
-        <agent text="algo de certo, não está errado" color="darkred" x="280" y="360"/>
-        
-        <agent text="nem aqui, nem em nenhum lugar." color="darkred" x="280" y="280"/>
+        <agent text="algo de certo, não está errado" color="white" x="15" y="450"/>
+        <agent img="SnowMan.png" x="200" y="15" width="80" height="150"/>
         <agent img="Sign.png" x="1" y="1" width="150" height="150" on-touch="_PREV_PAGE"/>
         
     </page> 
