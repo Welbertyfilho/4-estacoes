@@ -4,7 +4,8 @@
 
         <agent img="Cactus (3).png" x="1" y="1" width="80" height="100"/>
         <agent img="cactus.png" x="400" y="1" width="80" height="150"/>
-        <agent img="cactus.png" x="400" y="1" width="80" height="150"/>
+        <agent img="Bone (1).png" x="360" y="1" width="80" height="50"/>
+        
  
 
   
