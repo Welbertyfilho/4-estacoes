@@ -6,6 +6,7 @@
         <agent img="cactus.png" x="400" y="1" width="80" height="150"/>
         <agent img="Bone (1).png" x="360" y="1" width="80" height="50"/>
         <agent img="Skeleton.png" x="80" y="1" width="80" height="30"/>
+        <agent img="Skeleton.png" x="200" y="1" width="80" height="30"/>
  
 
   
